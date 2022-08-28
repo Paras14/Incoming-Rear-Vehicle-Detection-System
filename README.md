@@ -13,6 +13,7 @@ sensor data is sent through an android app (like "PhonePi Sensor Streamer").
 Only thing left to do is to tune the data coming from smartphone's accelormeter in such way that False positives are minimized,
 and then it could be integrated with the main script ("Vehicle Detection LEFT or RIGHT.py")
 
+Note that the 'side'(Left or Right) reported is from driver's perspective
 ![image](https://user-images.githubusercontent.com/53565432/187083903-a73c8efe-ff4b-4500-ba28-483e8cb3f7e0.png)
 ![image](https://user-images.githubusercontent.com/53565432/187083926-99404679-7580-4399-8c88-62a82888359b.png)
 ![image](https://user-images.githubusercontent.com/53565432/187083945-d1f2a594-4794-4728-9618-48413e66b254.png)
